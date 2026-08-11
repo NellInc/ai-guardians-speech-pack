@@ -5,9 +5,13 @@ educational visual novel about AI ethics. Like the good old days: the full
 spoken dialogue, one pack. The web build streams these clips on demand;
 desktop and mobile builds bundle them.
 
-- `v1/lines/` — one Opus file per dialogue line (48 kbps mono, 24 kHz),
-  keyed by the game's translation identifiers. Paths are versioned so a
-  shipped build can never desync from a re-rendered pack.
+- `v1/lines/` contains the immutable original release pack.
+- `v2/lines/` contains the immutable 0.97 release-candidate pack, with its
+  byte-level inventory in `v2/manifest.json`.
+
+Each version has one Opus file per dialogue line (48 kbps mono, 24 kHz), keyed
+by the game's translation identifiers. Published version directories are never
+modified, so shipped builds cannot desynchronize from later renders.
 
 ## Provenance
 
