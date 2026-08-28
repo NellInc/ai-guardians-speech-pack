@@ -8,6 +8,9 @@ desktop and mobile builds bundle them.
 - `v1/lines/` contains the immutable original release pack.
 - `v2/lines/` contains the immutable 0.97 release-candidate pack, with its
   byte-level inventory in `v2/manifest.json`.
+- `v3/lines/` contains the immutable 0.98.1 pack, including the approved
+  All-ee pronunciation corrections, with its byte-level inventory in
+  `v3/manifest.json`.
 
 Each version has one Opus file per dialogue line (48 kbps mono, 24 kHz), keyed
 by the game's translation identifiers. Published version directories are never
