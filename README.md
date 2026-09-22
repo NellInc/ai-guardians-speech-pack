@@ -12,6 +12,9 @@ desktop and mobile builds bundle them.
   All-ee pronunciation corrections, with its byte-level inventory in
   `v3/manifest.json`.
 
+- `v4/lines/` contains the current 9,944-clip pack for the 0.99 web candidate,
+  with its byte-level inventory in `v4/manifest.json`.
+
 Each version has one Opus file per dialogue line (48 kbps mono, 24 kHz), keyed
 by the game's translation identifiers. Published version directories are never
 modified, so shipped builds cannot desynchronize from later renders.
