@@ -14,9 +14,12 @@ desktop and mobile builds bundle them.
 
 - `v4/lines/` contains the immutable 9,944-clip pack for the 0.99 web candidate,
   with its byte-level inventory in `v4/manifest.json`.
-- `v5/lines/` contains the current 9,956-clip pack for the 0.99 polish-finish
+- `v5/lines/` contains the immutable 9,956-clip pack for the 0.99 polish-finish
   candidate (129 re-voiced and 12 new lines), with its byte-level inventory in
   `v5/manifest.json`.
+- `v6/lines/` contains the current 9,957-clip pack for the ultra polish sweep
+  (5 re-voiced and 1 new line), with its byte-level inventory in
+  `v6/manifest.json`.
 
 Each version has one Opus file per dialogue line (48 kbps mono, 24 kHz), keyed
 by the game's translation identifiers. Published version directories are never
