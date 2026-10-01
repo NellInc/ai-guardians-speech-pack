@@ -1,0 +1,18 @@
+# AI Guardians Speech Pack
+
+> Spoken dialogue assets for AI Guardians, an educational visual novel about AI ethics.
+
+The web game streams dialogue clips on demand; desktop and mobile builds bundle them. Versioned packs contain one Opus file per dialogue line and remain immutable after publication. The clips are game assets and are not licensed for reuse outside AI Guardians.
+
+## Game
+
+- [AI Guardians](https://www.aiguardians.games/): The main game website.
+
+## Pack documentation and inventories
+
+- [Speech pack documentation](https://github.com/NellInc/ai-guardians-speech-pack/blob/main/README.md): Version history, voice provenance, format and rights.
+- [Version 6 manifest](https://speech.aiguardians.games/v6/manifest.json): Byte-level inventory for the version 6 pack.
+- [Version 5 manifest](https://speech.aiguardians.games/v5/manifest.json): Byte-level inventory for the version 5 pack.
+- [Version 4 manifest](https://speech.aiguardians.games/v4/manifest.json): Byte-level inventory for the version 4 pack.
+- [Version 3 manifest](https://speech.aiguardians.games/v3/manifest.json): Byte-level inventory for the version 3 pack.
+- [Version 2 manifest](https://speech.aiguardians.games/v2/manifest.json): Byte-level inventory for the version 2 pack.
