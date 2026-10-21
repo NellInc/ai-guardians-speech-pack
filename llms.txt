@@ -11,6 +11,9 @@ The web game streams dialogue clips on demand; desktop and mobile builds bundle 
 ## Pack documentation and inventories
 
 - [Speech pack documentation](https://github.com/NellInc/ai-guardians-speech-pack/blob/main/README.md): Version history, voice provenance, format and rights.
+- [Version 9 manifest](https://speech.aiguardians.games/v9/manifest.json): Byte-level inventory for the version 9 pack.
+- [Version 8 manifest](https://speech.aiguardians.games/v8/manifest.json): Byte-level inventory for the version 8 pack.
+- [Version 7 manifest](https://speech.aiguardians.games/v7/manifest.json): Byte-level inventory for the version 7 pack.
 - [Version 6 manifest](https://speech.aiguardians.games/v6/manifest.json): Byte-level inventory for the version 6 pack.
 - [Version 5 manifest](https://speech.aiguardians.games/v5/manifest.json): Byte-level inventory for the version 5 pack.
 - [Version 4 manifest](https://speech.aiguardians.games/v4/manifest.json): Byte-level inventory for the version 4 pack.

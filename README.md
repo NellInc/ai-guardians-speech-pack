@@ -26,6 +26,9 @@ desktop and mobile builds bundle them.
 
 - `v8/lines/` contains the immutable 10,354-clip pack for the 0.99.3 release
   candidate, with its byte-level inventory in `v8/manifest.json`.
+- `v9/lines/` contains the immutable 10,411-clip pack for the 0.99.3 red-team
+  patch-and-retest update (59 new lines; 2 retired debrief lines dropped), with its
+  byte-level inventory in `v9/manifest.json`.
 
 Each version has one Opus file per dialogue line (48 kbps mono, 24 kHz), keyed
 by the game's translation identifiers. Published version directories are never
